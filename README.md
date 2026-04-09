@@ -32,14 +32,14 @@ Extremely vulnerable to targeted attacks
 Dense core + sparse outer nodes → clear hub structure
 
 <p align="center">
-  <img src="figures/1.graph.png" width="500"/>
+  <img src="figures/graph.png" width="500"/>
 </p>
 
 
 ## 2. Degree Distribution (Real vs Random)
 
 <p align="center">
-  <img src="figures/2.real_vs_random_degree_distribution.png" width="500"/>
+  <img src="figures/real_vs_random_degree_distribution.png" width="500"/>
 </p>
 
 **Interpretation:**
@@ -51,7 +51,7 @@ Dense core + sparse outer nodes → clear hub structure
 ## 3. Robustness Analysis
 
 <p align="center">
-  <img src="figures/3.robustness_comparison.png" width="500"/>
+  <img src="figures/robustness_comparison.png" width="500"/>
 </p>
 
 **Interpretation:**
