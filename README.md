@@ -18,14 +18,14 @@ Community structure and hidden organization
 
 Dataset: SNAP Stanford — ca-GrQc
 
-🧠 Key Findings (TL;DR)
-📉 Scale-Free Network → γ ≈ 2.04
-🌍 Small-World Property → High clustering + short paths
-🧨 Robust yet Fragile
-Resistant to random failures
-Extremely vulnerable to targeted attacks
-🔗 Assortative Mixing → r ≈ 0.65
-🧩 Community Structure Detected → Modularity ≈ 0.51
+-🧠 Key Findings (TL;DR)
+-📉 Scale-Free Network → γ ≈ 2.04
+-🌍 Small-World Property → High clustering + short paths
+-🧨 Robust yet Fragile
+-Resistant to random failures
+-Extremely vulnerable to targeted attacks
+-🔗 Assortative Mixing → r ≈ 0.65
+-🧩 Community Structure Detected → Modularity ≈ 0.51
 
 ## 1. Network Structure (Macro View)
 
